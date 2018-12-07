@@ -1,0 +1,6 @@
+framework module Pods_instafloTests {
+  umbrella header "Pods-instafloTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
